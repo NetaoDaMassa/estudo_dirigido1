@@ -1,1 +1,2 @@
-# estudo_dirigido1 aula de programaçao 
+# estudo_dirigido1 repositorio para desenvolvimento de estudo dirigido de programaçao 
+README.md
